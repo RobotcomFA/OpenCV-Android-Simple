@@ -28,3 +28,12 @@ openCVLibrary411/build/intermediates/apk_list/debug/mainApkListPersistenceDebug/
 openCVLibrary411/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java
 openCVLibrary411/build/generated/source/buildConfig/androidTest/debug/org/opencv/test/BuildConfig.java
 openCVLibrary411/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out/org/opencv/engine/OpenCVEngineInterface.java
+openCVLibrary411/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml
+openCVLibrary411/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output.json
+openCVLibrary411/build/intermediates/incremental/packageDebugResources/compile-file-map.properties
+openCVLibrary411/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml
+openCVLibrary411/build/intermediates/incremental/packageDebugResources/merger.xml
+openCVLibrary411/build/intermediates/library_manifest/debug/AndroidManifest.xml
+openCVLibrary411/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt
+openCVLibrary411/build/intermediates/packaged_res/debug/values/values.xml
+.idea/codeStyles/codeStyleConfig.xml
